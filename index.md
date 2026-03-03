@@ -29,6 +29,6 @@ I received my PhD in Mathematics from Boston University, where I studied rare ev
 ## Miscellanea
 
  - I grew up in Metro Detroit working for my parents' janitorial repair company and got my B.S. from Michigan State University.
- - I spend most of my free time listening to music and attending live shows. I'm especially into jazz and hip-hop, though I go through phases of listening to anything from desert rock to ambient electronica. I'm into "create digging" and making sample-based hip-hop and house music with my friends.
+ - I spend most of my free time listening to music and attending live shows. I'm especially into jazz and hip-hop, though I go through phases of listening to anything from desert rock to ambient electronica. I'm into "crate digging" and making sample-based hip-hop and house music with my friends.
  - I also enjoy table-top role playing games. We mostly play Pathfinder and Starfinder these days.
  - I love nature and animals, and spend what time I can near running water. In 2026 my partner and I started fostering cats from a local sanctuary, so in addition to our 3 (Habanero, Poblano, and Jalapeño) it's become common to have 2-6 feline guests living with us.
