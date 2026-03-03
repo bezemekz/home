@@ -28,7 +28,7 @@ main:
   - title: "Moderate Deviations for Fully Coupled Multiscale Weakly Interacting Particle Systems"
     authors: Zachary Bezemek, Konstantinos Spiliopoulos
     conference_short: SPDEs
-    conference: Stochastics and Partial Differential Equations: Analysis and Computations, Vol. 12, 2023
+    conference: "Stochastics and Partial Differential Equations: Analysis and Computations, Vol. 12, 2023"
     pdf: https://arxiv.org/pdf/2202.08403
     page: https://link.springer.com/article/10.1007/s40072-023-00301-0
 
