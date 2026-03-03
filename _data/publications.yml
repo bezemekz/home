@@ -24,7 +24,6 @@ main:
     pdf: https://arxiv.org/pdf/2210.08591
     page: https://link.springer.com/article/10.1007/s00245-023-10075-5
     code: https://gitlab.com/mheldman/IS-interacting-particles
-    image: ./assets/img/pl.jpg
 
   - title: "Moderate Deviations for Fully Coupled Multiscale Weakly Interacting Particle Systems"
     authors: Zachary Bezemek, Konstantinos Spiliopoulos
@@ -32,7 +31,6 @@ main:
     conference: Stochastics and Partial Differential Equations: Analysis and Computations, Vol. 12, 2023
     pdf: https://arxiv.org/pdf/2202.08403
     page: https://link.springer.com/article/10.1007/s40072-023-00301-0
-    image: ./assets/img/pl.jpg
 
   - title: "Large deviations for Interacting Multiscale Particle Systems"
     authors: Zachary Bezemek, Konstantinos Spiliopoulos
@@ -40,7 +38,6 @@ main:
     conference: Stochastic Processes and their Applications, Vol. 155, Issue C, 2023
     pdf: https://arxiv.org/pdf/2011.03032
     page: https://econpapers.repec.org/article/eeespapps/v_3a155_3ay_3a2023_3ai_3ac_3ap_3a27-108.htm
-    image: ./assets/img/pl.jpg
 
   - title: "Rate of Homogenization for Fully-Coupled McKean-Vlasov SDEs"
     authors: Zachary Bezemek, Konstantinos Spiliopoulos
@@ -48,4 +45,3 @@ main:
     conference: Stochastics and Dynamics, Vol. 23, No. 02, 2023
     pdf: https://arxiv.org/pdf/2202.07753
     page: https://www.worldscientific.com/doi/abs/10.1142/S0219493723500132
-    image: ./assets/img/pl.jpg
